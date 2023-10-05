@@ -1,0 +1,45 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color:lightblue ;
+    padding: 10px;
+    border-radius:15px;
+}
+
+header b{
+    color: navy;
+}
+
+header a{
+    background-color: white;
+    padding: 5px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+h1 i{
+    color: rgb(44, 41, 212);
+}
+
+p i b{
+    background-color: lightsalmon;
+}
+
+footer p{
+    background-color: rgb(17, 180, 230);
+    padding: 5px;
+}
+
+.fair{
+    background-color: rgb(155, 59, 24);
+    border-radius: 5px;
+    padding: 5px;
+    border: 5px solid royalblue;
+}
+
+h2 
+{
+    color: mediumblue;
+}
